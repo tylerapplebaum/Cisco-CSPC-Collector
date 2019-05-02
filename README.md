@@ -1,4 +1,4 @@
-# Cisco-CSPC-Collector
+# Cisco CSPC Collector
 
 ## User Accounts
 There are 3 user accounts as far as RHEL is concerned.
