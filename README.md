@@ -86,3 +86,5 @@ openssl pkcs12 -export -in <collectorname>.cer -inkey <collectorname>.pem > <col
 ```
 service cspc restart
 ```
+If you're successful, the collector keystore will look like this:
+![JKS](/cert_wiki2.png)
